@@ -4,6 +4,7 @@ title: "Call for Papers"
 permalink: /cfp/
 ---
 
+<!--
 <style>
     .justified-text {
       text-align: justify;
@@ -40,3 +41,5 @@ We welcome submissions of original research papers, as well as papers that prese
 * Notification of Acceptance: Sep. 15, 2024
 * Camera-Ready Deadline: Sep. 30, 2024
 * Registration Deadline: Oct. 15, 2024
+-->
+TBD
