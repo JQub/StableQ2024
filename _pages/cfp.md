@@ -16,7 +16,7 @@ We invite submissions to the 2nd Quantum System Stability and Reproducibility (S
 </p>
 </div>
 
-<h1>Paper Submission</h1>
+<h4>Paper Submission</h4>
 Topics of interest include, but are not limited to:
 
 * Different approaches to mitigating noise across the quantum computing stack, including hardware improvements, architecture designs, noise-reducing algorithms, and error-correction techniques.
@@ -29,13 +29,13 @@ Topics of interest include, but are not limited to:
 * Hybrid classical-quantum algorithms for noise mitigation.
 * Quantum error models and noise simulations.
 
-<h1>Important Dates</h1>
+<h4>Important Dates</h4>
 
 * Submission Deadline: August 30, 2024 (AOE)
 * Notification of Acceptance: September 15, 2024
 * Physical Workshop: November 3, 2024
 
-<h1>Submission Guidelines</h1>
+<h4>Submission Guidelines</h4>
 <div class="justified-text">
 <p>
 We welcome submissions of original research papers and papers that present novel ideas and perspectives on unstable noise in quantum computing from the architecture and system perspectives. Submissions should follow the MICRO 2024 conference format and must not exceed 4 pages without references. Please submit your contribution work at the submission site on <a href="https://easychair.org/conferences/?conf=stableq2024">Easychair</a>.
