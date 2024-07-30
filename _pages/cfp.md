@@ -38,7 +38,7 @@ Topics of interest include, but are not limited to:
 <h1>Submission Guidelines</h1>
 <div class="justified-text">
 <p>
-We welcome submissions of original research papers and papers that present novel ideas and perspectives on unstable noise in quantum computing from the architecture and system perspectives. Submissions should follow the MICRO 2024 conference format and must not exceed 4 pages without references. Please submit your contribution work at the submission site on Easychair: https://easychair.org/conferences/?conf=stableq2024. For more details, please refer the workshop website: https://stableq.org/.
+We welcome submissions of original research papers and papers that present novel ideas and perspectives on unstable noise in quantum computing from the architecture and system perspectives. Submissions should follow the MICRO 2024 conference format and must not exceed 4 pages without references. Please submit your contribution work at the submission site on <a href="https://easychair.org/conferences/?conf=stableq2024">Easychair</a>.
 </p>
 <p>
 The workshop's program committee will peer-review all submissions. Accepted papers will be presented in the workshop as oral presentations. We do not put papers in the ACM or IEEE digital libraries. Therefore, papers submitted to the event can be submitted to other venues without restrictions.
